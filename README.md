@@ -1,3 +1,3 @@
 # Ruby
 <ul>
-# a collection of practice projects while learning Ruby
+- a collection of practice projects while learning Ruby
