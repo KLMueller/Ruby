@@ -2,7 +2,7 @@
 
 # Print out the array built in methods
 
-# puts [].methods
+puts [].methods
 
 # Create an array that includes three strings that resemble names: "Amy", "Jimmy", "Johnny"
 names =  ["Amy", "Jimmy", "Johnny"]
