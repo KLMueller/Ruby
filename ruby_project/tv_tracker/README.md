@@ -1,11 +1,13 @@
 # TvTracker
 
-TODO: Enter project name
+Enter project name : tv_tracker
 
-TODO: Add project summary
+Add project summary : track your favorite shows
 
 TODO: CLI Feature 1
+
 TODO: CLI Feature 2
+
 TODO: CLI Feature 3
 
 TODO: Delete this and the text below, and describe your gem
